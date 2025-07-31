@@ -1,0 +1,16 @@
+There are currently 12 astronauts in space: 
+
+Oleg Kononenko - on board: ISS
+Nikolai Chub - on board: ISS
+Tracy Caldwell Dyson - on board: ISS
+Matthew Dominick - on board: ISS
+Michael Barratt - on board: ISS
+Jeanette Epps - on board: ISS
+Alexander Grebenkin - on board: ISS
+Butch Wilmore - on board: ISS
+Sunita Williams - on board: ISS
+Li Guangsu - on board: Tiangong
+Li Cong - on board: Tiangong
+Ye Guangfu - on board: Tiangong
+
+ Your current lat / long is: [57.7072, 11.9668]
