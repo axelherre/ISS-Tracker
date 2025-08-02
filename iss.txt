@@ -12,5 +12,3 @@ Sunita Williams - on board: ISS
 Li Guangsu - on board: Tiangong
 Li Cong - on board: Tiangong
 Ye Guangfu - on board: Tiangong
-
- Your current lat / long is: [57.7072, 11.9668]

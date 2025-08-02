@@ -13,7 +13,4 @@ def trackAstronauts():
     people = result["people"]
     for p in people:
         file.write(p["name"] + " - on board: " + p["craft"] + "\n")
-    g = geocoder.ip('me')
-    file.write("\n Your current lat / long is: " + str(g.latlng))
-    file.close()
     webbrowser.open("iss.txt")
